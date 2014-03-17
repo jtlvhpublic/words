@@ -1,3 +1,4 @@
+#/usr/bin/env python3
 import time 
 
 # modified for python 3 - raw_input changed to input, and print statements arguments now in parenthesis
